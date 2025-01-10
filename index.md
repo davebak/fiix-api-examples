@@ -3,11 +3,12 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
-This is a test change!
+Welcome to the Fiix API coding examples hub! Here you will find working examples of how to interact
+with Fiix's open API through code.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+If you are looking for official documentation on the API, please visit the [Fiix Developer's Guide] 
+and [API Documetation]. This page is meant for supplemental assistance only. 
 
 More specifically, the created site:
 
