@@ -11,7 +11,6 @@ This is only supplemental documentation. For complete and official guidance on u
 Fiix API, please visit the Fiix Developer's guide and API Documentation.
 
 
-
 ## Changing the version of the theme and/or Jekyll
 
 Simply edit the relevant line(s) in the `Gemfile`.
