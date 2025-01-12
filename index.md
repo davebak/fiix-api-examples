@@ -1,8 +1,12 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+description: "Fiix API coding docs provides examples and tutorials for coding with the Fiix CMMS API."
 ---
 
+# Fiix Coding Examples
+{: .fw-500 }
 
 Welcome to the Fiix API coding examples hub! Here you will find working examples of how to interact
 with Fiix's open API through code.

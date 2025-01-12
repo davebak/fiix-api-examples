@@ -1,4 +1,4 @@
-# Fiix API Coding Tutorials
+# Fiix API Documentation
 
 These docs provide some guidance and examples on communicating with the Fiix API through code.
 
